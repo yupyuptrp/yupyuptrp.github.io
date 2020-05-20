@@ -1,2 +1,2 @@
 # mousannia.github.io
-Go to mousannia.github.io/home.htm instead
+Go to <a href="mousannia.github.io/home">here</a> instead
