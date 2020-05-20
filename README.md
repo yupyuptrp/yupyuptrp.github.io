@@ -1,2 +1,2 @@
 # mousannia.github.io
-yay mice
+Go to mousannia.github.io/home.htm instead
