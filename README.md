@@ -37,7 +37,7 @@ li a.active {
 <body>
 
 <ul>
-  <li><a href="index.htm"><img src="icon.png"</a></li>
+  <li><a href="index.htm"><img src="icon.png"></a></li>
   <li><a href="mbc.htm">MBC</a></li>
   <li><a href="chezmart.htm">Chez Mart</a></li>
   <li><a href="gamestudio.htm">Mousannian Game Studio</a></li>
