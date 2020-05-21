@@ -80,6 +80,6 @@ play games and many more. We guarantee you will like it!</p>
  <h2>Don't like how the new website looks?</h2> 
   
 <button onclick="document.location = 'home.htm'">WayBack</button>  
-  
+   
 </body>
 </html>
