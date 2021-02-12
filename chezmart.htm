@@ -40,7 +40,7 @@ li a.active {
   <li><a href="index.htm"><img src="logo.png"></a></li>
   <li><a href="mbc.htm">MBC</a></li>
   <li><a href="chezmart.htm">Chez Mart</a></li>
-  <li><a href="gamestudio.htm">Mousannian Game Studio</a></li>
+  <li><a href="games.htm">Mousannian Game Studio</a></li>
   <li><a href="follow.htm">Follow</a></li>
   <li><a href="more.htm">More</a></li>
 </ul>
